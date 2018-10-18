@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/navaneeth/tensorflow-for-poets-2/android/tfmobile/gradleBuild/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/home/navaneeth/work/fontMagic/tfmobile/gradleBuild/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "/home/navaneeth/tensorflow-for-poets-2/android/tfmobile/res/values/base-strings.xml",
-                    "from": {
-                        "startLines": "19,20,21,18",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "713,782,844,660",
-                        "endColumns": "68,61,60,52",
-                        "endOffsets": "777,839,900,708"
-                    },
-                    "to": {
-                        "startLines": "11,12,13,14",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "650,719,781,842",
-                        "endColumns": "68,61,60,52",
-                        "endOffsets": "714,776,837,890"
-                    }
-                },
-                {
-                    "source": "/home/navaneeth/tensorflow-for-poets-2/android/tfmobile/res/values/template-styles.xml",
+                    "source": "/home/navaneeth/work/fontMagic/tfmobile/res/values/template-styles.xml",
                     "from": {
                         "startLines": "24,20,22,27,29,34",
                         "startColumns": "4,4,4,4,4,4",
@@ -40,41 +23,7 @@
                     }
                 },
                 {
-                    "source": "/home/navaneeth/tensorflow-for-poets-2/android/tfmobile/res/values/colors.xml",
-                    "from": {
-                        "startLines": "17",
-                        "startColumns": "4",
-                        "startOffsets": "659",
-                        "endColumns": "54",
-                        "endOffsets": "709"
-                    },
-                    "to": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "54",
-                        "endOffsets": "105"
-                    }
-                },
-                {
-                    "source": "/home/navaneeth/tensorflow-for-poets-2/android/tfmobile/res/values/strings.xml",
-                    "from": {
-                        "startLines": "18,16,17",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "792,658,708",
-                        "endColumns": "82,49,83",
-                        "endOffsets": "870,703,787"
-                    },
-                    "to": {
-                        "startLines": "15,16,17",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "895,978,1028",
-                        "endColumns": "82,49,83",
-                        "endOffsets": "973,1023,1107"
-                    }
-                },
-                {
-                    "source": "/home/navaneeth/tensorflow-for-poets-2/android/tfmobile/res/values/styles.xml",
+                    "source": "/home/navaneeth/work/fontMagic/tfmobile/res/values/styles.xml",
                     "from": {
                         "startLines": "16",
                         "startColumns": "4",
@@ -91,7 +40,58 @@
                     }
                 },
                 {
-                    "source": "/home/navaneeth/tensorflow-for-poets-2/android/tfmobile/res/values/template-dimens.xml",
+                    "source": "/home/navaneeth/work/fontMagic/tfmobile/res/values/colors.xml",
+                    "from": {
+                        "startLines": "17",
+                        "startColumns": "4",
+                        "startOffsets": "659",
+                        "endColumns": "54",
+                        "endOffsets": "709"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "54",
+                        "endOffsets": "105"
+                    }
+                },
+                {
+                    "source": "/home/navaneeth/work/fontMagic/tfmobile/res/values/base-strings.xml",
+                    "from": {
+                        "startLines": "19,20,21,18",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "713,782,844,660",
+                        "endColumns": "68,61,60,52",
+                        "endOffsets": "777,839,900,708"
+                    },
+                    "to": {
+                        "startLines": "11,12,13,14",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "650,719,781,842",
+                        "endColumns": "68,61,60,52",
+                        "endOffsets": "714,776,837,890"
+                    }
+                },
+                {
+                    "source": "/home/navaneeth/work/fontMagic/tfmobile/res/values/strings.xml",
+                    "from": {
+                        "startLines": "18,16,17",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "792,658,708",
+                        "endColumns": "82,49,83",
+                        "endOffsets": "870,703,787"
+                    },
+                    "to": {
+                        "startLines": "15,16,17",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "895,978,1028",
+                        "endColumns": "82,49,83",
+                        "endOffsets": "973,1023,1107"
+                    }
+                },
+                {
+                    "source": "/home/navaneeth/work/fontMagic/tfmobile/res/values/template-dimens.xml",
                     "from": {
                         "startLines": "28,24,23,22,21,20,29",
                         "startColumns": "4,4,4,4,4,4,4",

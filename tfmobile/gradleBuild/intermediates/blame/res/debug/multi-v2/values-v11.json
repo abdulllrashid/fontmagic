@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/navaneeth/tensorflow-for-poets-2/android/tfmobile/gradleBuild/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+            "outputFile": "/home/navaneeth/work/fontMagic/tfmobile/gradleBuild/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
             "map": [
                 {
-                    "source": "/home/navaneeth/tensorflow-for-poets-2/android/tfmobile/res/values-v11/styles.xml",
+                    "source": "/home/navaneeth/work/fontMagic/tfmobile/res/values-v11/styles.xml",
                     "from": {
                         "startLines": "7,19,11",
                         "startColumns": "2,2,2",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/home/navaneeth/tensorflow-for-poets-2/android/tfmobile/res/values-v11/template-styles.xml",
+                    "source": "/home/navaneeth/work/fontMagic/tfmobile/res/values-v11/template-styles.xml",
                     "from": {
                         "startLines": "19",
                         "startColumns": "4",
